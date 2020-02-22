@@ -1,0 +1,20 @@
+{
+	"driver" : {
+		"chrome" : "D:/selenium_test/driver/chromedriver.exe",
+		"firefox" : "D:/selenium_test/driver/chromedriver.exe`"
+	},
+	"logix" : {
+		"url" : "http://ec2-34-210-163-161.us-west-2.compute.amazonaws.com:8094/logix",
+		"user" : "pavan@xoxoday.com"
+	},
+	"phpmyadmin" : {
+		"url" : "http://34.210.163.161/phpmyadmin/index.php?db=opencart_new_merge&table=voucher&token=1e41733830ffd8c62be01073539f4d84#PMAURL-2:sql.php?db=xe_new_dev&table=admin_otp_logs&server=1&target=&token=1e41733830ffd8c62be01073539f4d84",
+		"user" : "xoxoqa",
+		"password" : "qa`321#xo"
+	},
+	"cases" : {
+		"point_loader" : ["test0", "test1"],
+		"login" : ["testA"]
+	}
+
+}

@@ -1,0 +1,239 @@
+1532806599252	geckodriver	INFO	geckodriver 0.21.0
+1532806599272	geckodriver	INFO	Listening on 127.0.0.1:53336
+1532806600272	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8z/s4933d3500q6q5hhp0zbvwx40000gn/T/rust_mozprofile.nheBbaMPYsVn"
+2018-07-29 01:06:42.779 plugin-container[62683:2851273] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c47, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-29 01:06:43.216 plugin-container[62684:2851305] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1532806603787	Marionette	INFO	Listening on port 53347
+1532806603819	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-29 01:06:45.006 plugin-container[62687:2851431] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8543, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-29 01:06:58.387 plugin-container[62711:2851818] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x743f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532806714231	geckodriver	INFO	geckodriver 0.21.0
+1532806714240	geckodriver	INFO	Listening on 127.0.0.1:53483
+1532806715249	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8z/s4933d3500q6q5hhp0zbvwx40000gn/T/rust_mozprofile.T868J0v0fshB"
+2018-07-29 01:08:37.189 plugin-container[62774:2853132] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-29 01:08:37.514 plugin-container[62775:2853157] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6f43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1532806717713	Marionette	INFO	Listening on port 53494
+1532806717742	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-29 01:08:38.304 plugin-container[62777:2853275] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://ec2-34-210-163-161.us-west-2.compute.amazonaws.com:8094/newdesign/home/js/init.js?version=20180729010803, line 481: TypeError: document.getElementById(...) is null
+JavaScript error: http://ec2-34-210-163-161.us-west-2.compute.amazonaws.com:8094/newdesign/home/js/init.js?version=20180729010803, line 368: TypeError: document.getElementById(...) is null
+1532807138219	geckodriver	INFO	geckodriver 0.21.0
+1532807138227	geckodriver	INFO	Listening on 127.0.0.1:53689
+1532807139239	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8z/s4933d3500q6q5hhp0zbvwx40000gn/T/rust_mozprofile.q7qjpQObAAlf"
+2018-07-29 01:15:41.422 plugin-container[62929:2856830] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x780b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-29 01:15:41.655 plugin-container[62930:2856859] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x704b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1532807142043	Marionette	INFO	Listening on port 53700
+1532807142141	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-29 01:15:42.533 plugin-container[62931:2856976] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x753f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://ec2-34-210-163-161.us-west-2.compute.amazonaws.com:8094/newdesign/home/js/init.js?version=20180729011505, line 481: TypeError: document.getElementById(...) is null
+JavaScript error: http://ec2-34-210-163-161.us-west-2.compute.amazonaws.com:8094/newdesign/home/js/init.js?version=20180729011505, line 368: TypeError: document.getElementById(...) is null
+1532808364346	geckodriver	INFO	geckodriver 0.21.0
+1532808364358	geckodriver	INFO	Listening on 127.0.0.1:54052
+1532808365363	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8z/s4933d3500q6q5hhp0zbvwx40000gn/T/rust_mozprofile.Rs6flA92fXmB"
+2018-07-29 01:36:07.510 plugin-container[63383:2865403] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8607, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-29 01:36:07.966 plugin-container[63384:2865436] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7203, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1532808368460	Marionette	INFO	Listening on port 54063
+1532808368511	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-29 01:36:08.974 plugin-container[63388:2865547] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x893f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://ec2-34-210-163-161.us-west-2.compute.amazonaws.com:8094/newdesign/home/js/init.js?version=20180729013531, line 481: TypeError: document.getElementById(...) is null
+JavaScript error: http://ec2-34-210-163-161.us-west-2.compute.amazonaws.com:8094/newdesign/home/js/init.js?version=20180729013531, line 368: TypeError: document.getElementById(...) is null
+1532809298439	geckodriver	INFO	geckodriver 0.21.0
+1532809298450	geckodriver	INFO	Listening on 127.0.0.1:54269
+1532809299463	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8z/s4933d3500q6q5hhp0zbvwx40000gn/T/rust_mozprofile.bEmcljeh5SeW"
+2018-07-29 01:51:41.616 plugin-container[63631:2870991] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8447, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-29 01:51:41.904 plugin-container[63632:2871019] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1532809302161	Marionette	INFO	Listening on port 54280
+1532809302202	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-29 01:51:42.818 plugin-container[63633:2871129] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8903, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://ec2-34-210-163-161.us-west-2.compute.amazonaws.com:8094/newdesign/home/js/init.js?version=20180729015105, line 481: TypeError: document.getElementById(...) is null
+JavaScript error: http://ec2-34-210-163-161.us-west-2.compute.amazonaws.com:8094/newdesign/home/js/init.js?version=20180729015105, line 368: TypeError: document.getElementById(...) is null
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532859277989	geckodriver	INFO	geckodriver 0.21.0
+1532859278003	geckodriver	INFO	Listening on 127.0.0.1:57084
+1532859279009	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8z/s4933d3500q6q5hhp0zbvwx40000gn/T/rust_mozprofile.EGlQebDNq627"
+2018-07-29 15:44:41.260 plugin-container[71530:3056627] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x803f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-29 15:44:41.720 plugin-container[71531:3056657] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1532859282053	Marionette	INFO	Listening on port 57095
+1532859282153	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-29 15:44:42.748 plugin-container[71534:3056769] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://ec2-34-210-163-161.us-west-2.compute.amazonaws.com:8094/newdesign/home/js/init.js?version=20180729154404, line 481: TypeError: document.getElementById(...) is null
+JavaScript error: http://ec2-34-210-163-161.us-west-2.compute.amazonaws.com:8094/newdesign/home/js/init.js?version=20180729154404, line 368: TypeError: document.getElementById(...) is null
+1532859940027	geckodriver	INFO	geckodriver 0.21.0
+1532859940036	geckodriver	INFO	Listening on 127.0.0.1:57365
+1532859941059	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8z/s4933d3500q6q5hhp0zbvwx40000gn/T/rust_mozprofile.b2OoZc2CcaBR"
+2018-07-29 15:55:43.055 plugin-container[71761:3062124] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-29 15:55:43.419 plugin-container[71762:3062152] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1532859943754	Marionette	INFO	Listening on port 57376
+1532859943869	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-29 15:55:44.414 plugin-container[71763:3062264] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7637, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://ec2-34-210-163-161.us-west-2.compute.amazonaws.com:8094/newdesign/home/js/init.js?version=20180729155449, line 481: TypeError: document.getElementById(...) is null
+JavaScript error: http://ec2-34-210-163-161.us-west-2.compute.amazonaws.com:8094/newdesign/home/js/init.js?version=20180729155449, line 368: TypeError: document.getElementById(...) is null
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532860004196	geckodriver	INFO	geckodriver 0.21.0
+1532860004203	geckodriver	INFO	Listening on 127.0.0.1:57534
+1532860005216	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8z/s4933d3500q6q5hhp0zbvwx40000gn/T/rust_mozprofile.dqB9eDRgKodK"
+2018-07-29 15:56:47.220 plugin-container[71811:3063323] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6f07, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-29 15:56:47.659 plugin-container[71812:3063352] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1532860008144	Marionette	INFO	Listening on port 57545
+1532860008269	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-29 15:56:48.629 plugin-container[71814:3063460] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x703f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://ec2-34-210-163-161.us-west-2.compute.amazonaws.com:8094/newdesign/home/js/init.js?version=20180729155553, line 481: TypeError: document.getElementById(...) is null
+JavaScript error: http://ec2-34-210-163-161.us-west-2.compute.amazonaws.com:8094/newdesign/home/js/init.js?version=20180729155553, line 368: TypeError: document.getElementById(...) is null
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532860098364	geckodriver	INFO	geckodriver 0.21.0
+1532860098371	geckodriver	INFO	Listening on 127.0.0.1:57719
+1532860099383	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8z/s4933d3500q6q5hhp0zbvwx40000gn/T/rust_mozprofile.04z14tmfawLN"
+2018-07-29 15:58:21.223 plugin-container[71875:3064712] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x850b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-29 15:58:21.485 plugin-container[71876:3064736] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7207, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1532860101735	Marionette	INFO	Listening on port 57730
+1532860101777	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-29 15:58:22.338 plugin-container[71879:3064858] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6f03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://ec2-34-210-163-161.us-west-2.compute.amazonaws.com:8094/newdesign/home/js/init.js?version=20180729155727, line 481: TypeError: document.getElementById(...) is null
+JavaScript error: http://ec2-34-210-163-161.us-west-2.compute.amazonaws.com:8094/newdesign/home/js/init.js?version=20180729155727, line 368: TypeError: document.getElementById(...) is null
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532860414057	geckodriver	INFO	geckodriver 0.21.0
+1532860414064	geckodriver	INFO	Listening on 127.0.0.1:57899
+1532860415087	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8z/s4933d3500q6q5hhp0zbvwx40000gn/T/rust_mozprofile.tMiyykALvLvC"
+2018-07-29 16:03:36.929 plugin-container[72051:3067638] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x783f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-29 16:03:37.330 plugin-container[72052:3067662] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8747, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1532860417587	Marionette	INFO	Listening on port 57910
+1532860417706	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-29 16:03:38.200 plugin-container[72055:3067771] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x783f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://ec2-34-210-163-161.us-west-2.compute.amazonaws.com:8094/newdesign/home/js/init.js?version=20180729160243, line 481: TypeError: document.getElementById(...) is null
+JavaScript error: http://ec2-34-210-163-161.us-west-2.compute.amazonaws.com:8094/newdesign/home/js/init.js?version=20180729160243, line 368: TypeError: document.getElementById(...) is null
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532860453088	geckodriver	INFO	geckodriver 0.21.0
+1532860453097	geckodriver	INFO	Listening on 127.0.0.1:58054
+1532860454114	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8z/s4933d3500q6q5hhp0zbvwx40000gn/T/rust_mozprofile.9CFojZ38E7yd"
+2018-07-29 16:04:15.882 plugin-container[72095:3068580] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x833f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-29 16:04:16.222 plugin-container[72096:3068603] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x833f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1532860456626	Marionette	INFO	Listening on port 58065
+1532860456715	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-29 16:04:17.128 plugin-container[72098:3068710] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x753f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://ec2-34-210-163-161.us-west-2.compute.amazonaws.com:8094/newdesign/home/js/init.js?version=20180729160322, line 481: TypeError: document.getElementById(...) is null
+JavaScript error: http://ec2-34-210-163-161.us-west-2.compute.amazonaws.com:8094/newdesign/home/js/init.js?version=20180729160322, line 368: TypeError: document.getElementById(...) is null
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532928390040	geckodriver	INFO	geckodriver 0.21.0
+1532928390055	geckodriver	INFO	Listening on 127.0.0.1:59648
+1532928391065	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8z/s4933d3500q6q5hhp0zbvwx40000gn/T/rust_mozprofile.mZ455VMxk8qv"
+2018-07-30 10:56:33.600 plugin-container[76475:3187920] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-30 10:56:34.028 plugin-container[76476:3187949] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7543, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1532928394498	Marionette	INFO	Listening on port 59659
+1532928394555	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-30 10:56:35.009 plugin-container[76478:3188052] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x723f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://ec2-34-210-163-161.us-west-2.compute.amazonaws.com:8094/newdesign/home/js/init.js?version=20180730105537, line 368: TypeError: document.getElementById(...) is null
+JavaScript error: http://ec2-34-210-163-161.us-west-2.compute.amazonaws.com:8094/newdesign/home/js/init.js?version=20180730105537, line 481: TypeError: document.getElementById(...) is null
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532928449302	geckodriver	INFO	geckodriver 0.21.0
+1532928449309	geckodriver	INFO	Listening on 127.0.0.1:59751
+1532928450329	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8z/s4933d3500q6q5hhp0zbvwx40000gn/T/rust_mozprofile.t7GTk1A7zA30"
+2018-07-30 10:57:32.061 plugin-container[76504:3188873] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x853f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-30 10:57:32.393 plugin-container[76505:3188897] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x853f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1532928452645	Marionette	INFO	Listening on port 59762
+1532928452715	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-30 10:57:33.192 plugin-container[76509:3189015] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://ec2-34-210-163-161.us-west-2.compute.amazonaws.com:8094/newdesign/home/js/init.js?version=20180730105635, line 368: TypeError: document.getElementById(...) is null
+JavaScript error: http://ec2-34-210-163-161.us-west-2.compute.amazonaws.com:8094/newdesign/home/js/init.js?version=20180730105635, line 481: TypeError: document.getElementById(...) is null
+1532931258877	geckodriver	INFO	geckodriver 0.21.0
+1532931258885	geckodriver	INFO	Listening on 127.0.0.1:60064
+1532931259916	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8z/s4933d3500q6q5hhp0zbvwx40000gn/T/rust_mozprofile.iwqrLE3dypZv"
+2018-07-30 11:44:22.128 plugin-container[77156:3205156] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8503, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-30 11:44:22.517 plugin-container[77158:3205190] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8903, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1532931262825	Marionette	INFO	Listening on port 60075
+1532931262916	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-30 11:44:23.484 plugin-container[77161:3205294] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7403, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://ec2-34-210-163-161.us-west-2.compute.amazonaws.com:8094/newdesign/home/js/init.js?version=20180730114343, line 368: TypeError: document.getElementById(...) is null
+JavaScript error: http://ec2-34-210-163-161.us-west-2.compute.amazonaws.com:8094/newdesign/home/js/init.js?version=20180730114343, line 481: TypeError: document.getElementById(...) is null
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532931299051	geckodriver	INFO	geckodriver 0.21.0
+1532931299059	geckodriver	INFO	Listening on 127.0.0.1:60213
+1532931300077	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8z/s4933d3500q6q5hhp0zbvwx40000gn/T/rust_mozprofile.C5jM5P38o1H5"
+2018-07-30 11:45:01.832 plugin-container[77194:3206064] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-30 11:45:02.110 plugin-container[77195:3206089] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x783f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1532931302436	Marionette	INFO	Listening on port 60224
+1532931302533	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-30 11:45:02.912 plugin-container[77200:3206205] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://ec2-34-210-163-161.us-west-2.compute.amazonaws.com:8094/newdesign/home/js/init.js?version=20180730114422, line 481: TypeError: document.getElementById(...) is null
+JavaScript error: http://ec2-34-210-163-161.us-west-2.compute.amazonaws.com:8094/newdesign/home/js/init.js?version=20180730114422, line 368: TypeError: document.getElementById(...) is null
+1532931322683	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1532931322696	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1532931322704	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532934332105	geckodriver	INFO	geckodriver 0.21.0
+1532934332113	geckodriver	INFO	Listening on 127.0.0.1:60438
+1532934333139	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8z/s4933d3500q6q5hhp0zbvwx40000gn/T/rust_mozprofile.J3VGAqPLy9Yz"
+2018-07-30 12:35:35.467 plugin-container[77980:3227573] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7033, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-30 12:35:35.896 plugin-container[77981:3227604] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7747, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1532934336371	Marionette	INFO	Listening on port 60449
+1532934336415	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-30 12:35:36.910 plugin-container[77982:3227710] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x713f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://ec2-34-210-163-161.us-west-2.compute.amazonaws.com:8094/newdesign/home/js/init.js?version=20180730123456, line 481: TypeError: document.getElementById(...) is null
+JavaScript error: http://ec2-34-210-163-161.us-west-2.compute.amazonaws.com:8094/newdesign/home/js/init.js?version=20180730123456, line 368: TypeError: document.getElementById(...) is null
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532934372529	geckodriver	INFO	geckodriver 0.21.0
+1532934372536	geckodriver	INFO	Listening on 127.0.0.1:60591
+1532934373549	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8z/s4933d3500q6q5hhp0zbvwx40000gn/T/rust_mozprofile.AQrmSrWhnL73"
+2018-07-30 12:36:15.300 plugin-container[78024:3228511] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x773f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-30 12:36:15.566 plugin-container[78025:3228535] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7403, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1532934375780	Marionette	INFO	Listening on port 60602
+1532934375808	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-30 12:36:16.359 plugin-container[78026:3228644] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x813f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://ec2-34-210-163-161.us-west-2.compute.amazonaws.com:8094/newdesign/home/js/init.js?version=20180730123536, line 481: TypeError: document.getElementById(...) is null
+JavaScript error: http://ec2-34-210-163-161.us-west-2.compute.amazonaws.com:8094/newdesign/home/js/init.js?version=20180730123536, line 368: TypeError: document.getElementById(...) is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping

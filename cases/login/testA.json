@@ -1,0 +1,34 @@
+{
+	"drivers" : ["firefox"],
+	"cases" : [
+		{
+			"method" : "library.commonUtils.get",
+			"args" : [{"config" : "['logix']['url']"}]
+		},
+		{
+			"method" : "library.commonUtils.enterkeys",
+			"args" : ["//input[@id='txtEmail']", {"config" : "['logix']['user']"}]
+		},
+		{
+			"method" : "library.commonUtils.click",
+			"args" : ["//input[@name='btnNext']"]
+		},
+		{
+
+			"method" : "library.commonUtils.enterkeys",
+			"args" : ["//input[@name='txtOtp']", {
+					"method" : "library.commonUtils.getlogixotp",
+					"args" : []
+				}
+			]
+		},
+		{
+			"method" : "library.commonUtils.click",
+			"args" : ["//input[@name='btnVerify']"]
+		},
+		{
+			"method" : "library.commonUtils.teardown",
+			"args" : []
+		}
+	]
+}

@@ -1,0 +1,109 @@
+{
+	"drivers" : ["chrome"],
+	"cases" : [
+		{
+			"method" : "library.commonUtils.get",
+			"args" : [{"config" : "['logix']['url']"}]
+		},
+		{
+			"method" : "library.commonUtils.enterkeys",
+			"args" : ["//input[@id='txtEmail']", {"config" : "['logix']['user']"}]
+		},
+		{
+			"method" : "library.commonUtils.click",
+			"args" : ["//input[@name='btnNext']"]
+		},
+		{
+
+			"method" : "library.commonUtils.enterkeys",
+			"args" : ["//input[@name='txtOtp']", {
+					"method" : "library.commonUtils.getlogixotp",
+					"args" : []
+				}
+			]
+		},
+		{
+			"method" : "library.commonUtils.click",
+			"args" : ["//input[@name='btnVerify']"]
+		},
+		{
+			"method" : "library.commonUtils.mouseover",
+			"args" : ["//li[@class='dropdown dropdown-user dropdown-light']"]
+		},
+		{
+			"method" : "time.sleep",
+			"args" : [0.2]
+		},
+		{
+			"method" : "library.commonUtils.click",
+			"args" : ["(//a[@href='/admin/companypoints'])[1]"]
+		},
+		{
+			"method" : "library.commonUtils.click",
+			"args" : ["//a[@href='/admin/companypoints/add']"]
+		},
+		{
+			"method" : "library.commonUtils.click",
+			"args" : ["//a//span[text()='Search by Company Name']"]
+		},
+		{
+			"method" : "library.commonUtils.enterkeys",
+			"args" : ["//ul//li[text()='Please enter 1 or more character']//preceding::input[@id='s2id_autogen1_search']", "XoxodayAutomation98"]
+		},
+		{
+			"method" : "time.sleep",
+			"args" : [0.2]
+		},
+		{
+			"method" : "library.commonUtils.click",
+			"args" : ["//div[@class='select2-result-label']"]
+		},
+		{
+			"method" : "library.commonUtils.click",
+			"args" : ["//select[@id='country_id']"]
+		},
+		{
+			"method" : "library.commonUtils.click",
+			"args" : ["//select[@id='country_id']//option[contains(text(),'India')]"]
+		},
+		{
+			"method" : "library.commonUtils.enterkeys",
+			"args" : ["//input[@id='points_allocated']", "1000"]
+		},
+		{
+			"method" : "library.commonUtils.enterkeys",
+			"args" : ["//input[@id='invoice_number']", {
+				"method" : "library.commonUtils.randomnumber",
+				"args" : []
+			}]
+		},
+		{
+			"method" : "library.commonUtils.selectbyvalue",
+			"args" : ["//select[@id='payment_term']", "Prepaid"]
+		},
+		{
+			"method" : "library.commonUtils.enterkeys",
+			"args" : ["//input[@id='emails']", "pavan@xoxoday.com,shyaram@xoxoday.com"]
+		},
+		{
+			"method" : "library.commonUtils.enterkeys",
+			"args" : ["//textarea[@id='details']", "Testing"]
+		},
+		{
+			"method" : "library.commonUtils.enterkeys",
+			"args" : ["//input[@id='company_invoice']", "/Applications/MAMP/htdocs/test_scripts_python_2/files/ENG-XOXOIntegration-030718-0806-942.pdf"]
+		},
+		{
+			"method" : "library.commonUtils.click",
+			"args" : ["//input[@id='submit']"]
+		},
+		{
+			"method" : "time.sleep",
+			"args" : [0.10]
+		},
+		{
+			"method" : "library.commonUtils.teardown",
+			"args" : []
+		}
+	]
+}
